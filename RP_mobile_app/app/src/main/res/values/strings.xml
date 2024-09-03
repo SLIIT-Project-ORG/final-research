@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Ayusha</string>
+
+    <string name="loginPassword" />
+
+    <string-array name="class_array">
+        <item>1st Class</item>
+        <item>2nd Class</item>
+        <item>3rd Class</item>
+    </string-array>
+
+    <string-array name="dropdown_items">
+        <item>SELECT</item>
+        <item>ALL</item>
+        <item>AYURVEDIC</item>
+        <item>WESTERN</item>
+    </string-array>
+
+</resources>
